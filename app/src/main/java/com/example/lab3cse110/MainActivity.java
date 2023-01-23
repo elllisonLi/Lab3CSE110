@@ -1,7 +1,6 @@
 package com.example.lab3cse110;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
